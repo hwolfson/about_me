@@ -1,0 +1,19 @@
+body {
+  background-color: #FFFFCC;
+  font-family: sans-serif;
+  position: absolute; left 100
+}
+h1 {
+  color: #000000;
+  border-bottom: 2px solid #2A1959;
+}
+h2 {
+  color: #666666;
+  font-size: 1.2em;
+}
+h2, p {
+  color: #666666
+  margin-left: 120px;
+  
+}
+
